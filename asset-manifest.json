@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/aroma-booking/static/css/main.ff02f4b5.css",
-    "main.js": "/aroma-booking/static/js/main.648a5b10.js",
+    "main.css": "/aroma-booking/static/css/main.439f60f7.css",
+    "main.js": "/aroma-booking/static/js/main.7aa04b72.js",
     "static/js/453.8ab99a0f.chunk.js": "/aroma-booking/static/js/453.8ab99a0f.chunk.js",
     "index.html": "/aroma-booking/index.html",
-    "main.ff02f4b5.css.map": "/aroma-booking/static/css/main.ff02f4b5.css.map",
-    "main.648a5b10.js.map": "/aroma-booking/static/js/main.648a5b10.js.map",
+    "main.439f60f7.css.map": "/aroma-booking/static/css/main.439f60f7.css.map",
+    "main.7aa04b72.js.map": "/aroma-booking/static/js/main.7aa04b72.js.map",
     "453.8ab99a0f.chunk.js.map": "/aroma-booking/static/js/453.8ab99a0f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff02f4b5.css",
-    "static/js/main.648a5b10.js"
+    "static/css/main.439f60f7.css",
+    "static/js/main.7aa04b72.js"
   ]
 }
