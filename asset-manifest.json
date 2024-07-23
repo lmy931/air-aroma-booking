@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/air-aroma-booking/static/css/main.ea937afd.css",
-    "main.js": "/air-aroma-booking/static/js/main.d49bcda6.js",
+    "main.css": "/air-aroma-booking/static/css/main.0ff1090d.css",
+    "main.js": "/air-aroma-booking/static/js/main.1938e787.js",
     "static/js/453.8ab99a0f.chunk.js": "/air-aroma-booking/static/js/453.8ab99a0f.chunk.js",
     "index.html": "/air-aroma-booking/index.html",
-    "main.ea937afd.css.map": "/air-aroma-booking/static/css/main.ea937afd.css.map",
-    "main.d49bcda6.js.map": "/air-aroma-booking/static/js/main.d49bcda6.js.map",
+    "main.0ff1090d.css.map": "/air-aroma-booking/static/css/main.0ff1090d.css.map",
+    "main.1938e787.js.map": "/air-aroma-booking/static/js/main.1938e787.js.map",
     "453.8ab99a0f.chunk.js.map": "/air-aroma-booking/static/js/453.8ab99a0f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea937afd.css",
-    "static/js/main.d49bcda6.js"
+    "static/css/main.0ff1090d.css",
+    "static/js/main.1938e787.js"
   ]
 }
